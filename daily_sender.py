@@ -11,7 +11,7 @@ from telegram import Bot
 from telegram.error import Forbidden, RetryAfter, TimedOut
 
 # Bot token
-BOT_TOKEN = "8635581048:AAGiLzGvaEImVr_QRZpvszGxt9XqLA1KJB0"
+BOT_TOKEN = ""
 SUBSCRIBERS_FILE = 'data/subscribers.json'
 
 # Arabic AI News with images
